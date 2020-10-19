@@ -1,5 +1,17 @@
 
-Adding removal Text
+
+Warning: do not copy the folder which has already has git repo. 
+
+Create a local repo
+git init
+Check if it does not have any .git files
+Git commit -am "initial commit"
+Git add . Point is the actual folder this is an argument  you will be in staging area ready to be committed
+git commit -m "message" 
+git log shows you all the commits git directory  
+Git status for you to see to track and check modified working directory 
+Git remote checking the remote repos you have 
+Git branch will show you the branches 
 
 
 Summary of MATLAB Onramp
