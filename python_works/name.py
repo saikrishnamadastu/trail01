@@ -3,6 +3,7 @@ name="alex baggy"
 print(name.title())
 print(name.lower())
 print(name.upper())
+print(type(name))
 
 #combinig & concatenating
 first_name="ada"
